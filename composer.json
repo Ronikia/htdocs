@@ -1,0 +1,17 @@
+{
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^4.0"
+    },
+    "require": {
+        "illuminate/collections": "^12.34"
+    },
+
+
+    "name": "htdocs/src",
+    "autoload": {
+        "files": [
+            "src/Runner.php",
+            "index.php"
+        ]
+    }
+}
