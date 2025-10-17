@@ -33,4 +33,6 @@
     $myHero->hp = 20;
 
     $myHero->StartOneToTen(11);
+
+    echo"Kvak";
 ?>
